@@ -1,3 +1,0 @@
-Project Link (Github): https://github.com/Lethe1999/CS6120FinalProject
-
-Dataset Link (Kaggle): https://www.kaggle.com/datasets/sidarcidiacono/news-sentiment-analysis-for-stock-data-by-company
